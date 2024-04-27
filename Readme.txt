@@ -1,0 +1,2 @@
+Hello this directory will include my studies of
+	Udemy_Verilog_for_an_FPGA_Engineer_with_Xilinx_Vivado_Design_Suite_2021 Course
