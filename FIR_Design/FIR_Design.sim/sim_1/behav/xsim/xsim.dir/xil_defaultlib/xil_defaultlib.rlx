@@ -1,0 +1,10 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+E:/Courses/FPGA course/Tutorial/FPGA_Tutorial/FIR_Design/FIR_Design.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+E:/Courses/FPGA course/Tutorial/FPGA_Tutorial/FIR_Design/FIR_Design.srcs/sources_1/imports/Codes/Adder.v,1684001194,verilog,,E:/Courses/FPGA course/Tutorial/FPGA_Tutorial/FIR_Design/FIR_Design.srcs/sources_1/imports/Codes/MULTIPLIER_BLOCK.v,,adder,,,,,,,,
+E:/Courses/FPGA course/Tutorial/FPGA_Tutorial/FIR_Design/FIR_Design.srcs/sources_1/imports/Codes/MULTIPLIER_BLOCK.v,1683768515,verilog,,E:/Courses/FPGA course/Tutorial/FPGA_Tutorial/FIR_Design/FIR_Design.srcs/sources_1/imports/Codes/SHIFT_REGISTER.v,,multiplier1;multiplier2;multiplier3,,,,,,,,
+E:/Courses/FPGA course/Tutorial/FPGA_Tutorial/FIR_Design/FIR_Design.srcs/sources_1/imports/Codes/SHIFT_REGISTER.v,1684001222,verilog,,E:/Courses/FPGA course/Tutorial/FPGA_Tutorial/FIR_Design/FIR_Design.srcs/sources_1/imports/Codes/TOP.v,,shift_Register,,,,,,,,
+E:/Courses/FPGA course/Tutorial/FPGA_Tutorial/FIR_Design/FIR_Design.srcs/sources_1/imports/Codes/TOP.v,1683763354,verilog,,E:/Courses/FPGA course/Tutorial/FPGA_Tutorial/FIR_Design/FIR_Design.srcs/sources_1/imports/Codes/testbench.v,,FIR_TOP,,,,,,,,
+E:/Courses/FPGA course/Tutorial/FPGA_Tutorial/FIR_Design/FIR_Design.srcs/sources_1/imports/Codes/testbench.v,1683763720,verilog,,,,FIR_TESTBENCH,,,,,,,,

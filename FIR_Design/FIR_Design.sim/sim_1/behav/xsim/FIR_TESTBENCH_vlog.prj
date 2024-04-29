@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../FIR_Design.srcs/sources_1/imports/Codes/Adder.v" \
+"../../../../FIR_Design.srcs/sources_1/imports/Codes/MULTIPLIER_BLOCK.v" \
+"../../../../FIR_Design.srcs/sources_1/imports/Codes/SHIFT_REGISTER.v" \
+"../../../../FIR_Design.srcs/sources_1/imports/Codes/TOP.v" \
+"../../../../FIR_Design.srcs/sources_1/imports/Codes/testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

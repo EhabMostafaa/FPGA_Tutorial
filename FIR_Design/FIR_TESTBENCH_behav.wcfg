@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="FIR_TESTBENCH_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="FIR_TESTBENCH" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="101500001fs"></ZoomEndTime>
+      <Cursor1Time time="1098000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="174"></NameColumnWidth>
+      <ValueColumnWidth column_width="82"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/FIR_TESTBENCH/clk_tb" type="logic">
+      <obj_property name="ElementShortName">clk_tb</obj_property>
+      <obj_property name="ObjectShortName">clk_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/FIR_TESTBENCH/rst_tb" type="logic">
+      <obj_property name="ElementShortName">rst_tb</obj_property>
+      <obj_property name="ObjectShortName">rst_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/FIR_TESTBENCH/in_tb" type="array">
+      <obj_property name="ElementShortName">in_tb[7:0]</obj_property>
+      <obj_property name="ObjectShortName">in_tb[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/FIR_TESTBENCH/FIR_tb" type="array">
+      <obj_property name="ElementShortName">FIR_tb[7:0]</obj_property>
+      <obj_property name="ObjectShortName">FIR_tb[7:0]</obj_property>
+      <obj_property name="WaveformStyle">STYLE_ANALOG</obj_property>
+      <obj_property name="CellHeight">100</obj_property>
+   </wvobject>
+   <wvobject fp_name="/FIR_TESTBENCH/i" type="array">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/FIR_TESTBENCH/INTEGER_BITS" type="array">
+      <obj_property name="ElementShortName">INTEGER_BITS[31:0]</obj_property>
+      <obj_property name="ObjectShortName">INTEGER_BITS[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/FIR_TESTBENCH/FRACTION_BITS" type="array">
+      <obj_property name="ElementShortName">FRACTION_BITS[31:0]</obj_property>
+      <obj_property name="ObjectShortName">FRACTION_BITS[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/FIR_TESTBENCH/EXTEND" type="array">
+      <obj_property name="ElementShortName">EXTEND[31:0]</obj_property>
+      <obj_property name="ObjectShortName">EXTEND[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/FIR_TESTBENCH/NUMBER_OF_STAGES" type="array">
+      <obj_property name="ElementShortName">NUMBER_OF_STAGES[31:0]</obj_property>
+      <obj_property name="ObjectShortName">NUMBER_OF_STAGES[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/FIR_TESTBENCH/CLOCK_TB" type="array">
+      <obj_property name="ElementShortName">CLOCK_TB[31:0]</obj_property>
+      <obj_property name="ObjectShortName">CLOCK_TB[31:0]</obj_property>
+   </wvobject>
+</wave_config>

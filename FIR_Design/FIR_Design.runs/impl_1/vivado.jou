@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sun Apr 28 20:46:47 2024
+# Process ID: 15700
+# Current directory: E:/Courses/FPGA course/Tutorial/FPGA_Tutorial/FIR_Design/FIR_Design.runs/impl_1
+# Command line: vivado.exe -log FIR_TOP.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source FIR_TOP.tcl -notrace
+# Log file: E:/Courses/FPGA course/Tutorial/FPGA_Tutorial/FIR_Design/FIR_Design.runs/impl_1/FIR_TOP.vdi
+# Journal file: E:/Courses/FPGA course/Tutorial/FPGA_Tutorial/FIR_Design/FIR_Design.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source FIR_TOP.tcl -notrace
